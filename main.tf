@@ -10,4 +10,5 @@ provider "aws" {
   # Configuration options
 access_key = file(access.txt)
 secret_key = file(secret.txt)
+region = "us-east-1"
 }
