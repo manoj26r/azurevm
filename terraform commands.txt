@@ -1,0 +1,16 @@
+terraform init
+terraform validate - to validate the code
+terraform apply - apply the code
+terraform check - 
+terraform plan 
+terraform destroy
+terraform state list --- resourse list - state file date.
+
+
+--
+add providers--
+data sources - retrieve data from
+variables and varialbles
+Refer resource to another resources
+multiple resources - count and for_each
+----
